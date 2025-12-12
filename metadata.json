@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Password Strength Analyzer",
+  "description": "A robust password security tool combining client-side rule validation with advanced AI pattern analysis using Google Gemini.",
+  "requestFramePermissions": []
+}
